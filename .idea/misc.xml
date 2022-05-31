@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/border_layout.xml" value="0.3565" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/circle_progressbar.xml" value="0.3565" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/color_change.xml" value="0.2325" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/color_change_login.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/color_change_save.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.219" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/activity_main.xml" value="0.1345646437994723" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/login.xml" value="0.15702479338842976" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/main.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/menu_cooling.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/menu_culture.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/menu_insect.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/nav_2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/nav_3.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/nav_monitoring.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/layout/nav_settings.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/menu/activity_main_drawer.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/project_Greentopia/app/src/main/res/menu/main.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/Desktop/0523/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0523/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_cooling.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0523/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0523/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0523/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/nav_settings.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/drawable/circle_progressbar.xml" value="0.2735" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/drawable/color_change.xml" value="0.2735" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/activity_main.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/login.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/menu_cooling.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/menu_culture.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/menu_insect.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/nav_3.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/nav_header_main.xml" value="0.17407071622846781" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/nav_monitoring.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/layout/nav_settings.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/0524/greentopia_0524/project_Greentopia/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/menu_cooling.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/menu_culture.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/menu_insect.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.18" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/nav_3.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/USER/Desktop/greentopia/project_Greentopia/app/src/main/res/layout/nav_settings.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/activity_main.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/menu_culture.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/menu_insect.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/nav_monitoring.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0518_2/project_Greentopia/app/src/main/res/layout/nav_settings.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_cooling.xml" value="0.2359375" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_culture.xml" value="0.2359375" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_insect.xml" value="0.2359375" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_light.xml" value="0.2359375" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/menu_water.xml" value="0.2359375" />
+        <entry key="..\:/Users/USER/Desktop/greentopia_0523_websocket/project_Greentopia/app/src/main/res/layout/nav_header_main.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
